@@ -1,0 +1,53 @@
+In ModItems.java:
+    public static final Item MUSIC_DISC_NAME = registerItem(
+    "music_disc_name",
+    new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+    .jukeboxPlayable(ModSounds.NAME_KEY).maxCount(1)
+
+In ModSounds.java:
+
+    public static final SoundEvent NAME = registerSoundEvent("name");
+    public static final RegistryKey<JukeboxSong> NAME_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "name"));
+
+In en_us.jason:
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Name"
+
+In models\item:
+    In music_disc_name.json:
+        {
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "anthemdiscs:item/music_disc_name"
+      }
+    }
+
+In data\anthemdiscs\jukebox_song:
+    In name.json:
+            {
+      "comparator_output": (Int 1-15),
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_name.desc"
+      },
+      "length_in_seconds": (Float time is sec),
+      "sound_event": "anthemdiscs:name"
+    }
+
+In sounds.json:
+      "name": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:name",
+            "stream": true
+          }
+        ]
+      }
+    }
+
+In sounds:
+    name.ogg
+
+In textures\item:
+    music_disc_name.png
