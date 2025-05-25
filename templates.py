@@ -6,17 +6,20 @@ templates = [
          new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
             .jukeboxPlayable(ModSounds.{name_capital}_KEY).maxCount(1)
     );
+
 """,
 
 """
     public static final SoundEvent {¨name_capital} = registerSoundEvent("{name}");
     public static final RegistryKey<JukeboxSong> {name_capital}_KEY =
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "{name}"));
+
 """,
 
 """
     "item.anthemdiscs.music_disc_name": "Music Disc",
     "item.anthemdiscs.music_disc_name.desc": "National Anthem - {name_first_capital}",
+
 """,
 
 """
@@ -29,6 +32,7 @@ templates = [
         ]
       }
     }
+
 """
 
 ]
@@ -41,6 +45,7 @@ templates_single_file = [
         "layer0": "anthemdiscs:item/music_disc_{name}"
       }
     }
+
 """,
 
 """
@@ -52,5 +57,6 @@ templates_single_file = [
       "length_in_seconds": {length_in_seconds_float},
       "sound_event": "anthemdiscs:{name}"
     }
+    
 """,
 ]
