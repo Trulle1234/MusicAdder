@@ -1,0 +1,200 @@
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Albania",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Andorra",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Armenia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Austria",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Azerbaijan",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Belarus",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Belgium",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Bosnia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Bulgaria",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Croatia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Czechia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Denmark",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Finland",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - France",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Georgia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Germany",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Gibraltar",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Greece",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Guernsey",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Hungary",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Iceland",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Ireland",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Isle_of_man",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Italy",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Jersey",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Latvia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Lithuania",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Luxembourg",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Macedonia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Malta",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Moldova",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Monaco",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Montenegro",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Netherlands",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Norway",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Poland",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Portugal",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Romania",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Russia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - San_marino",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Serbia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Slovakia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Slovenia",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Spain",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Sweden",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Switzerland",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Turkey",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Uk",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Ukraine",
+
+
+    "item.anthemdiscs.music_disc_name": "Music Disc",
+    "item.anthemdiscs.music_disc_name.desc": "National Anthem - Vatican",
+

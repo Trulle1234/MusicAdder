@@ -50,7 +50,7 @@ templates_single_file = [
 
 """
     {
-      "comparator_output": {comparator_output_int},
+      "comparator_output": 5,
       "description": {
         "translate": "item.anthemdiscs.music_disc_{name}.desc"
       },

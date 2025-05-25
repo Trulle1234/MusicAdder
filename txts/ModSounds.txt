@@ -1,0 +1,250 @@
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("albania");
+    public static final RegistryKey<JukeboxSong> ALBANIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "albania"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("andorra");
+    public static final RegistryKey<JukeboxSong> ANDORRA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "andorra"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("armenia");
+    public static final RegistryKey<JukeboxSong> ARMENIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "armenia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("austria");
+    public static final RegistryKey<JukeboxSong> AUSTRIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "austria"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("azerbaijan");
+    public static final RegistryKey<JukeboxSong> AZERBAIJAN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "azerbaijan"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("belarus");
+    public static final RegistryKey<JukeboxSong> BELARUS_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "belarus"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("belgium");
+    public static final RegistryKey<JukeboxSong> BELGIUM_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "belgium"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("bosnia");
+    public static final RegistryKey<JukeboxSong> BOSNIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "bosnia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("bulgaria");
+    public static final RegistryKey<JukeboxSong> BULGARIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "bulgaria"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("croatia");
+    public static final RegistryKey<JukeboxSong> CROATIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "croatia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("czechia");
+    public static final RegistryKey<JukeboxSong> CZECHIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "czechia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("denmark");
+    public static final RegistryKey<JukeboxSong> DENMARK_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "denmark"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("finland");
+    public static final RegistryKey<JukeboxSong> FINLAND_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "finland"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("france");
+    public static final RegistryKey<JukeboxSong> FRANCE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "france"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("georgia");
+    public static final RegistryKey<JukeboxSong> GEORGIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "georgia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("germany");
+    public static final RegistryKey<JukeboxSong> GERMANY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "germany"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("gibraltar");
+    public static final RegistryKey<JukeboxSong> GIBRALTAR_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "gibraltar"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("greece");
+    public static final RegistryKey<JukeboxSong> GREECE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "greece"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("guernsey");
+    public static final RegistryKey<JukeboxSong> GUERNSEY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "guernsey"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("hungary");
+    public static final RegistryKey<JukeboxSong> HUNGARY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "hungary"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("iceland");
+    public static final RegistryKey<JukeboxSong> ICELAND_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "iceland"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("ireland");
+    public static final RegistryKey<JukeboxSong> IRELAND_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "ireland"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("isle_of_man");
+    public static final RegistryKey<JukeboxSong> ISLE_OF_MAN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "isle_of_man"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("italy");
+    public static final RegistryKey<JukeboxSong> ITALY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "italy"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("jersey");
+    public static final RegistryKey<JukeboxSong> JERSEY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "jersey"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("latvia");
+    public static final RegistryKey<JukeboxSong> LATVIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "latvia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("lithuania");
+    public static final RegistryKey<JukeboxSong> LITHUANIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "lithuania"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("luxembourg");
+    public static final RegistryKey<JukeboxSong> LUXEMBOURG_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "luxembourg"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("macedonia");
+    public static final RegistryKey<JukeboxSong> MACEDONIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "macedonia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("malta");
+    public static final RegistryKey<JukeboxSong> MALTA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "malta"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("moldova");
+    public static final RegistryKey<JukeboxSong> MOLDOVA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "moldova"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("monaco");
+    public static final RegistryKey<JukeboxSong> MONACO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "monaco"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("montenegro");
+    public static final RegistryKey<JukeboxSong> MONTENEGRO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "montenegro"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("netherlands");
+    public static final RegistryKey<JukeboxSong> NETHERLANDS_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "netherlands"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("norway");
+    public static final RegistryKey<JukeboxSong> NORWAY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "norway"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("poland");
+    public static final RegistryKey<JukeboxSong> POLAND_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "poland"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("portugal");
+    public static final RegistryKey<JukeboxSong> PORTUGAL_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "portugal"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("romania");
+    public static final RegistryKey<JukeboxSong> ROMANIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "romania"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("russia");
+    public static final RegistryKey<JukeboxSong> RUSSIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "russia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("san_marino");
+    public static final RegistryKey<JukeboxSong> SAN_MARINO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "san_marino"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("serbia");
+    public static final RegistryKey<JukeboxSong> SERBIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "serbia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("slovakia");
+    public static final RegistryKey<JukeboxSong> SLOVAKIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "slovakia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("slovenia");
+    public static final RegistryKey<JukeboxSong> SLOVENIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "slovenia"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("spain");
+    public static final RegistryKey<JukeboxSong> SPAIN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "spain"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("sweden");
+    public static final RegistryKey<JukeboxSong> SWEDEN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "sweden"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("switzerland");
+    public static final RegistryKey<JukeboxSong> SWITZERLAND_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "switzerland"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("turkey");
+    public static final RegistryKey<JukeboxSong> TURKEY_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "turkey"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("uk");
+    public static final RegistryKey<JukeboxSong> UK_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "uk"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("ukraine");
+    public static final RegistryKey<JukeboxSong> UKRAINE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "ukraine"));
+
+
+    public static final SoundEvent {¨name_capital} = registerSoundEvent("vatican");
+    public static final RegistryKey<JukeboxSong> VATICAN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "vatican"));
+
