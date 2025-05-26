@@ -10,15 +10,15 @@ templates = [
 """,
 
 """
-    public static final SoundEvent {¨name_capital} = registerSoundEvent("{name}");
+    public static final SoundEvent {name_capital} = registerSoundEvent("{name}");
     public static final RegistryKey<JukeboxSong> {name_capital}_KEY =
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "{name}"));
 
 """,
 
 """
-    "item.anthemdiscs.music_disc_name": "Music Disc",
-    "item.anthemdiscs.music_disc_name.desc": "National Anthem - {name_first_capital}",
+    "item.anthemdiscs.music_disc_{name}": "Music Disc",
+    "item.anthemdiscs.music_disc_{name}.desc": "National Anthem - {name_first_capital}",
 
 """,
 
@@ -30,9 +30,12 @@ templates = [
             "stream": true
           }
         ]
-      }
-    }
+      },
 
+""",
+
+"""
+            entries.add(ModItems.MUSIC_DISC_{name_capital});    
 """
 
 ]

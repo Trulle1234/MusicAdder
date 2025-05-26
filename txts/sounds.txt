@@ -6,8 +6,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "andorra": {
@@ -17,8 +16,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "armenia": {
@@ -28,8 +26,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "austria": {
@@ -39,8 +36,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "azerbaijan": {
@@ -50,8 +46,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "belarus": {
@@ -61,8 +56,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "belgium": {
@@ -72,8 +66,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "bosnia": {
@@ -83,8 +76,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "bulgaria": {
@@ -94,8 +86,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "croatia": {
@@ -105,8 +96,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "czechia": {
@@ -116,8 +106,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "denmark": {
@@ -127,8 +116,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "finland": {
@@ -138,8 +126,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "france": {
@@ -149,8 +136,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "georgia": {
@@ -160,8 +146,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "germany": {
@@ -171,8 +156,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "gibraltar": {
@@ -182,8 +166,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "greece": {
@@ -193,8 +176,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "guernsey": {
@@ -204,8 +186,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "hungary": {
@@ -215,8 +196,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "iceland": {
@@ -226,8 +206,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "ireland": {
@@ -237,8 +216,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "isle_of_man": {
@@ -248,8 +226,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "italy": {
@@ -259,8 +236,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "jersey": {
@@ -270,8 +246,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "latvia": {
@@ -281,8 +256,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "lithuania": {
@@ -292,8 +266,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "luxembourg": {
@@ -303,8 +276,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "macedonia": {
@@ -314,8 +286,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "malta": {
@@ -325,8 +296,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "moldova": {
@@ -336,8 +306,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "monaco": {
@@ -347,8 +316,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "montenegro": {
@@ -358,8 +326,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "netherlands": {
@@ -369,8 +336,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "norway": {
@@ -380,8 +346,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "poland": {
@@ -391,8 +356,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "portugal": {
@@ -402,8 +366,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "romania": {
@@ -413,8 +376,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "russia": {
@@ -424,8 +386,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "san_marino": {
@@ -435,8 +396,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "serbia": {
@@ -446,8 +406,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "slovakia": {
@@ -457,8 +416,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "slovenia": {
@@ -468,8 +426,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "spain": {
@@ -479,8 +436,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "sweden": {
@@ -490,8 +446,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "switzerland": {
@@ -501,8 +456,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "turkey": {
@@ -512,8 +466,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "uk": {
@@ -523,8 +476,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "ukraine": {
@@ -534,8 +486,7 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 
 
       "vatican": {
@@ -545,6 +496,5 @@
             "stream": true
           }
         ]
-      }
-    }
+      },
 

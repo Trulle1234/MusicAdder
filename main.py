@@ -83,7 +83,7 @@ if __name__ == "__main__":
     names = names_from_midis(midi_dir)
 
     # Write a concatenated text file for each template
-    text_file_names = ["ModItems", "ModSounds", "en_us", "sounds"]
+    text_file_names = ["ModItems", "ModSounds", "en_us", "sounds", "ModItemGroups"]
     for file_name, tpl in zip(text_file_names, templates):
         template_name_adder_list_file(file_name, names, tpl)
 
