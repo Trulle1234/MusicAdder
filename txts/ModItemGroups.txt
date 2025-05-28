@@ -1,110 +1,84 @@
 
-            entries.add(ModItems.MUSIC_DISC_ALGERIA);    
+            entries.add(ModItems.MUSIC_DISC_AFGHANISTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_ANGOLA);    
+            entries.add(ModItems.MUSIC_DISC_BAHRAIN);    
 
-            entries.add(ModItems.MUSIC_DISC_BENIN);    
+            entries.add(ModItems.MUSIC_DISC_BANGLADESH);    
 
-            entries.add(ModItems.MUSIC_DISC_BOTSWANA);    
+            entries.add(ModItems.MUSIC_DISC_BHUTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_BURKINA_FASO);    
+            entries.add(ModItems.MUSIC_DISC_BRUNEI);    
 
-            entries.add(ModItems.MUSIC_DISC_BURUNDI);    
+            entries.add(ModItems.MUSIC_DISC_CAMBODIA);    
 
-            entries.add(ModItems.MUSIC_DISC_CAMEROON);    
+            entries.add(ModItems.MUSIC_DISC_CHINA);    
 
-            entries.add(ModItems.MUSIC_DISC_CAPEVERDE);    
+            entries.add(ModItems.MUSIC_DISC_INDIA);    
 
-            entries.add(ModItems.MUSIC_DISC_CENTRAL_AFRICAN_REPUBLIC);    
+            entries.add(ModItems.MUSIC_DISC_INDONESIA);    
 
-            entries.add(ModItems.MUSIC_DISC_CHAD);    
+            entries.add(ModItems.MUSIC_DISC_IRAN);    
 
-            entries.add(ModItems.MUSIC_DISC_COMOROS);    
+            entries.add(ModItems.MUSIC_DISC_IRAQ);    
 
-            entries.add(ModItems.MUSIC_DISC_CONGOREP);    
+            entries.add(ModItems.MUSIC_DISC_ISRAEL);    
 
-            entries.add(ModItems.MUSIC_DISC_DEMOCRATIC_REPUBLIC_OF_THE_CONGO);    
+            entries.add(ModItems.MUSIC_DISC_JAPAN);    
 
-            entries.add(ModItems.MUSIC_DISC_DJIBOUTI);    
+            entries.add(ModItems.MUSIC_DISC_JORDAN);    
 
-            entries.add(ModItems.MUSIC_DISC_EGYPT);    
+            entries.add(ModItems.MUSIC_DISC_KAZAKHSTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_EQUATORIAL_GUINEA);    
+            entries.add(ModItems.MUSIC_DISC_KUWAIT);    
 
-            entries.add(ModItems.MUSIC_DISC_ERITREA);    
+            entries.add(ModItems.MUSIC_DISC_KYRGYZSTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_ESWATINI);    
+            entries.add(ModItems.MUSIC_DISC_LAOS);    
 
-            entries.add(ModItems.MUSIC_DISC_ETHIOPIA);    
+            entries.add(ModItems.MUSIC_DISC_LEBANON);    
 
-            entries.add(ModItems.MUSIC_DISC_GABON);    
+            entries.add(ModItems.MUSIC_DISC_MALAYSIA);    
 
-            entries.add(ModItems.MUSIC_DISC_GAMBIA);    
+            entries.add(ModItems.MUSIC_DISC_MALDIVES);    
 
-            entries.add(ModItems.MUSIC_DISC_GHANA);    
+            entries.add(ModItems.MUSIC_DISC_MONGOLIA);    
 
-            entries.add(ModItems.MUSIC_DISC_GUINEA);    
+            entries.add(ModItems.MUSIC_DISC_MYANMAR);    
 
-            entries.add(ModItems.MUSIC_DISC_GUINEA_BISSAU);    
+            entries.add(ModItems.MUSIC_DISC_NEPAL);    
 
-            entries.add(ModItems.MUSIC_DISC_IVORY_COAST);    
+            entries.add(ModItems.MUSIC_DISC_NORTH_KOREA);    
 
-            entries.add(ModItems.MUSIC_DISC_KENYA);    
+            entries.add(ModItems.MUSIC_DISC_OMAN);    
 
-            entries.add(ModItems.MUSIC_DISC_LESOTHO);    
+            entries.add(ModItems.MUSIC_DISC_PAKISTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_LIBERIA);    
+            entries.add(ModItems.MUSIC_DISC_PHILIPPINES);    
 
-            entries.add(ModItems.MUSIC_DISC_LIBYA);    
+            entries.add(ModItems.MUSIC_DISC_QATAR);    
 
-            entries.add(ModItems.MUSIC_DISC_MADAGASCAR);    
+            entries.add(ModItems.MUSIC_DISC_SAUDIARABIA);    
 
-            entries.add(ModItems.MUSIC_DISC_MALAWI);    
+            entries.add(ModItems.MUSIC_DISC_SINGAPORE);    
 
-            entries.add(ModItems.MUSIC_DISC_MALI);    
+            entries.add(ModItems.MUSIC_DISC_SOUTH_KOREA);    
 
-            entries.add(ModItems.MUSIC_DISC_MAURITANIA);    
+            entries.add(ModItems.MUSIC_DISC_SRILANKA);    
 
-            entries.add(ModItems.MUSIC_DISC_MAURITIUS);    
+            entries.add(ModItems.MUSIC_DISC_SYRIA);    
 
-            entries.add(ModItems.MUSIC_DISC_MOROCCO);    
+            entries.add(ModItems.MUSIC_DISC_TAJIKISTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_MOZAMBIQUE);    
+            entries.add(ModItems.MUSIC_DISC_THAILAND);    
 
-            entries.add(ModItems.MUSIC_DISC_NAMIBIA);    
+            entries.add(ModItems.MUSIC_DISC_TIMORLESTE);    
 
-            entries.add(ModItems.MUSIC_DISC_NIGER);    
+            entries.add(ModItems.MUSIC_DISC_TURKMENISTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_NIGERIA);    
+            entries.add(ModItems.MUSIC_DISC_UAE);    
 
-            entries.add(ModItems.MUSIC_DISC_RWANDA);    
+            entries.add(ModItems.MUSIC_DISC_UZBEKISTAN);    
 
-            entries.add(ModItems.MUSIC_DISC_SAOTOME);    
+            entries.add(ModItems.MUSIC_DISC_VIETNAM);    
 
-            entries.add(ModItems.MUSIC_DISC_SENEGAL);    
-
-            entries.add(ModItems.MUSIC_DISC_SEYCHELLES);    
-
-            entries.add(ModItems.MUSIC_DISC_SIERRA_LEONE);    
-
-            entries.add(ModItems.MUSIC_DISC_SOMALIA);    
-
-            entries.add(ModItems.MUSIC_DISC_SOUTH_AFRICA);    
-
-            entries.add(ModItems.MUSIC_DISC_SOUTH_SUDAN);    
-
-            entries.add(ModItems.MUSIC_DISC_STHELENA);    
-
-            entries.add(ModItems.MUSIC_DISC_SUDAN);    
-
-            entries.add(ModItems.MUSIC_DISC_TANZANIA);    
-
-            entries.add(ModItems.MUSIC_DISC_TOGO);    
-
-            entries.add(ModItems.MUSIC_DISC_TUNISIA);    
-
-            entries.add(ModItems.MUSIC_DISC_UGANDA);    
-
-            entries.add(ModItems.MUSIC_DISC_ZAMBIA);    
-
-            entries.add(ModItems.MUSIC_DISC_ZIMBABWE);    
+            entries.add(ModItems.MUSIC_DISC_YEMEN);    

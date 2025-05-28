@@ -48,7 +48,7 @@ def batch_midi_to_ogg(midi_names, output_folder):
     return ogg_files
 
 if __name__ == "__main__":
-    midi_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), "africa_anthems")
+    midi_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), "asia_anthems")
     midi_files = [f for f in os.listdir(midi_folder) if f.endswith(".mid")]
     midi_names = [os.path.splitext(f)[0] for f in midi_files]
     print("Found MIDI files:", midi_files)

@@ -1,548 +1,418 @@
 
-      "algeria": {
+      "afghanistan": {
         "sounds": [
           {
-            "name": "anthemdiscs:algeria",
+            "name": "anthemdiscs:afghanistan",
             "stream": true
           }
         ]
       },
 
 
-      "angola": {
+      "bahrain": {
         "sounds": [
           {
-            "name": "anthemdiscs:angola",
+            "name": "anthemdiscs:bahrain",
             "stream": true
           }
         ]
       },
 
 
-      "benin": {
+      "bangladesh": {
         "sounds": [
           {
-            "name": "anthemdiscs:benin",
+            "name": "anthemdiscs:bangladesh",
             "stream": true
           }
         ]
       },
 
 
-      "botswana": {
+      "bhutan": {
         "sounds": [
           {
-            "name": "anthemdiscs:botswana",
+            "name": "anthemdiscs:bhutan",
             "stream": true
           }
         ]
       },
 
 
-      "burkina_faso": {
+      "brunei": {
         "sounds": [
           {
-            "name": "anthemdiscs:burkina_faso",
+            "name": "anthemdiscs:brunei",
             "stream": true
           }
         ]
       },
 
 
-      "burundi": {
+      "cambodia": {
         "sounds": [
           {
-            "name": "anthemdiscs:burundi",
+            "name": "anthemdiscs:cambodia",
             "stream": true
           }
         ]
       },
 
 
-      "cameroon": {
+      "china": {
         "sounds": [
           {
-            "name": "anthemdiscs:cameroon",
+            "name": "anthemdiscs:china",
             "stream": true
           }
         ]
       },
 
 
-      "capeverde": {
+      "india": {
         "sounds": [
           {
-            "name": "anthemdiscs:capeverde",
+            "name": "anthemdiscs:india",
             "stream": true
           }
         ]
       },
 
 
-      "central_african_republic": {
+      "indonesia": {
         "sounds": [
           {
-            "name": "anthemdiscs:central_african_republic",
+            "name": "anthemdiscs:indonesia",
             "stream": true
           }
         ]
       },
 
 
-      "chad": {
+      "iran": {
         "sounds": [
           {
-            "name": "anthemdiscs:chad",
+            "name": "anthemdiscs:iran",
             "stream": true
           }
         ]
       },
 
 
-      "comoros": {
+      "iraq": {
         "sounds": [
           {
-            "name": "anthemdiscs:comoros",
+            "name": "anthemdiscs:iraq",
             "stream": true
           }
         ]
       },
 
 
-      "congorep": {
+      "israel": {
         "sounds": [
           {
-            "name": "anthemdiscs:congorep",
+            "name": "anthemdiscs:israel",
             "stream": true
           }
         ]
       },
 
 
-      "democratic_republic_of_the_congo": {
+      "japan": {
         "sounds": [
           {
-            "name": "anthemdiscs:democratic_republic_of_the_congo",
+            "name": "anthemdiscs:japan",
             "stream": true
           }
         ]
       },
 
 
-      "djibouti": {
+      "jordan": {
         "sounds": [
           {
-            "name": "anthemdiscs:djibouti",
+            "name": "anthemdiscs:jordan",
             "stream": true
           }
         ]
       },
 
 
-      "egypt": {
+      "kazakhstan": {
         "sounds": [
           {
-            "name": "anthemdiscs:egypt",
+            "name": "anthemdiscs:kazakhstan",
             "stream": true
           }
         ]
       },
 
 
-      "equatorial_guinea": {
+      "kuwait": {
         "sounds": [
           {
-            "name": "anthemdiscs:equatorial_guinea",
+            "name": "anthemdiscs:kuwait",
             "stream": true
           }
         ]
       },
 
 
-      "eritrea": {
+      "kyrgyzstan": {
         "sounds": [
           {
-            "name": "anthemdiscs:eritrea",
+            "name": "anthemdiscs:kyrgyzstan",
             "stream": true
           }
         ]
       },
 
 
-      "eswatini": {
+      "laos": {
         "sounds": [
           {
-            "name": "anthemdiscs:eswatini",
+            "name": "anthemdiscs:laos",
             "stream": true
           }
         ]
       },
 
 
-      "ethiopia": {
+      "lebanon": {
         "sounds": [
           {
-            "name": "anthemdiscs:ethiopia",
+            "name": "anthemdiscs:lebanon",
             "stream": true
           }
         ]
       },
 
 
-      "gabon": {
+      "malaysia": {
         "sounds": [
           {
-            "name": "anthemdiscs:gabon",
+            "name": "anthemdiscs:malaysia",
             "stream": true
           }
         ]
       },
 
 
-      "gambia": {
+      "maldives": {
         "sounds": [
           {
-            "name": "anthemdiscs:gambia",
+            "name": "anthemdiscs:maldives",
             "stream": true
           }
         ]
       },
 
 
-      "ghana": {
+      "mongolia": {
         "sounds": [
           {
-            "name": "anthemdiscs:ghana",
+            "name": "anthemdiscs:mongolia",
             "stream": true
           }
         ]
       },
 
 
-      "guinea": {
+      "myanmar": {
         "sounds": [
           {
-            "name": "anthemdiscs:guinea",
+            "name": "anthemdiscs:myanmar",
             "stream": true
           }
         ]
       },
 
 
-      "guinea_bissau": {
+      "nepal": {
         "sounds": [
           {
-            "name": "anthemdiscs:guinea_bissau",
+            "name": "anthemdiscs:nepal",
             "stream": true
           }
         ]
       },
 
 
-      "ivory_coast": {
+      "north_korea": {
         "sounds": [
           {
-            "name": "anthemdiscs:ivory_coast",
+            "name": "anthemdiscs:north_korea",
             "stream": true
           }
         ]
       },
 
 
-      "kenya": {
+      "oman": {
         "sounds": [
           {
-            "name": "anthemdiscs:kenya",
+            "name": "anthemdiscs:oman",
             "stream": true
           }
         ]
       },
 
 
-      "lesotho": {
+      "pakistan": {
         "sounds": [
           {
-            "name": "anthemdiscs:lesotho",
+            "name": "anthemdiscs:pakistan",
             "stream": true
           }
         ]
       },
 
 
-      "liberia": {
+      "philippines": {
         "sounds": [
           {
-            "name": "anthemdiscs:liberia",
+            "name": "anthemdiscs:philippines",
             "stream": true
           }
         ]
       },
 
 
-      "libya": {
+      "qatar": {
         "sounds": [
           {
-            "name": "anthemdiscs:libya",
+            "name": "anthemdiscs:qatar",
             "stream": true
           }
         ]
       },
 
 
-      "madagascar": {
+      "saudiarabia": {
         "sounds": [
           {
-            "name": "anthemdiscs:madagascar",
+            "name": "anthemdiscs:saudiarabia",
             "stream": true
           }
         ]
       },
 
 
-      "malawi": {
+      "singapore": {
         "sounds": [
           {
-            "name": "anthemdiscs:malawi",
+            "name": "anthemdiscs:singapore",
             "stream": true
           }
         ]
       },
 
 
-      "mali": {
+      "south_korea": {
         "sounds": [
           {
-            "name": "anthemdiscs:mali",
+            "name": "anthemdiscs:south_korea",
             "stream": true
           }
         ]
       },
 
 
-      "mauritania": {
+      "srilanka": {
         "sounds": [
           {
-            "name": "anthemdiscs:mauritania",
+            "name": "anthemdiscs:srilanka",
             "stream": true
           }
         ]
       },
 
 
-      "mauritius": {
+      "syria": {
         "sounds": [
           {
-            "name": "anthemdiscs:mauritius",
+            "name": "anthemdiscs:syria",
             "stream": true
           }
         ]
       },
 
 
-      "morocco": {
+      "tajikistan": {
         "sounds": [
           {
-            "name": "anthemdiscs:morocco",
+            "name": "anthemdiscs:tajikistan",
             "stream": true
           }
         ]
       },
 
 
-      "mozambique": {
+      "thailand": {
         "sounds": [
           {
-            "name": "anthemdiscs:mozambique",
+            "name": "anthemdiscs:thailand",
             "stream": true
           }
         ]
       },
 
 
-      "namibia": {
+      "timorleste": {
         "sounds": [
           {
-            "name": "anthemdiscs:namibia",
+            "name": "anthemdiscs:timorleste",
             "stream": true
           }
         ]
       },
 
 
-      "niger": {
+      "turkmenistan": {
         "sounds": [
           {
-            "name": "anthemdiscs:niger",
+            "name": "anthemdiscs:turkmenistan",
             "stream": true
           }
         ]
       },
 
 
-      "nigeria": {
+      "uae": {
         "sounds": [
           {
-            "name": "anthemdiscs:nigeria",
+            "name": "anthemdiscs:uae",
             "stream": true
           }
         ]
       },
 
 
-      "rwanda": {
+      "uzbekistan": {
         "sounds": [
           {
-            "name": "anthemdiscs:rwanda",
+            "name": "anthemdiscs:uzbekistan",
             "stream": true
           }
         ]
       },
 
 
-      "saotome": {
+      "vietnam": {
         "sounds": [
           {
-            "name": "anthemdiscs:saotome",
+            "name": "anthemdiscs:vietnam",
             "stream": true
           }
         ]
       },
 
 
-      "senegal": {
+      "yemen": {
         "sounds": [
           {
-            "name": "anthemdiscs:senegal",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "seychelles": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:seychelles",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "sierra_leone": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:sierra_leone",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "somalia": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:somalia",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "south_africa": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:south_africa",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "south_sudan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:south_sudan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "sthelena": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:sthelena",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "sudan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:sudan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "tanzania": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:tanzania",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "togo": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:togo",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "tunisia": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:tunisia",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "uganda": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:uganda",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "zambia": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:zambia",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "zimbabwe": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:zimbabwe",
+            "name": "anthemdiscs:yemen",
             "stream": true
           }
         ]

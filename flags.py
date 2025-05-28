@@ -3,43 +3,43 @@ import os
 import requests
 import pycountry
 
-# List exactly as your MIDI base-names (no “.mid”)
+# ▶︎ Replace the European list with all African base-names (snake_case, no “.png”)
 names = [
-    "albania","andorra","armenia","austria","azerbaijan","belarus","belgium",
-    "bosnia","bulgaria","croatia","czechia","denmark","finland","france",
-    "georgia","germany","gibraltar","greece","guernsey","hungary","iceland",
-    "ireland","Isle_of_man","italy","jersey","latvia","lithuania","luxembourg",
-    "macedonia","malta","moldova","monaco","montenegro","netherlands","norway",
-    "poland","portugal","romania","russia","san_marino","serbia","slovakia",
-    "slovenia","spain","sweden","switzerland","turkey","uk","ukraine","vatican"
+    "algeria","angola","benin","botswana","burkina_faso","burundi","cameroon",
+    "cape_verde","central_african_republic","chad","comoros","congorep",
+    "democratic_republic_of_the_congo","djibouti","egypt","equatorial_guinea",
+    "eritrea","eswatini","ethiopia","gabon","gambia","ghana","guinea",
+    "guinea_bissau","ivory_coast","kenya","lesotho","liberia","libya",
+    "madagascar","malawi","mali","mauritania","mauritius","morocco",
+    "mozambique","namibia","niger","nigeria","rwanda","sao_tome",
+    "senegal","seychelles","sierra_leone","somalia","south_africa",
+    "south_sudan","st_helena","sudan","tanzania","togo","tunisia",
+    "uganda","zambia","zimbabwe"
 ]
 
-# Special cases where pycountry lookup or flagcdn code differs
+# ▶︎ Only special cases where lookup fails:
 override = {
-    "czechia":    "cz",  # Czech Republic
-    "macedonia":  "mk",  # North Macedonia
-    "bosnia":     "ba",  # Bosnia & Herzegovina
-    "san_marino": "sm",
-    "isle_of_man":"im",
-    "guernsey":   "gg",
-    "jersey":     "je",
-    "gibraltar":  "gi",
-    "vatican":    "va",
-    "uk":         "gb",  # United Kingdom
-    "russia":      "ru",
-    "turkey":      "tr",
+    "cape_verde":                       "cv",
+    "ivory_coast":                      "ci",
+    "congorep":                         "cg",
+    "democratic_republic_of_the_congo": "cd",
+    "sao_tome":                         "st",
+    "eswatini":                         "sz",
+    "st_helena":                        "sh",
+    "guinea_bissau": "gw",
 }
 
 output_dir = os.path.join(os.path.dirname(__file__), "flags")
 os.makedirs(output_dir, exist_ok=True)
 
 for name in names:
-    key = name.replace("_", " ").title()  # e.g. "Isle_of_man"→"Isle Of Man"
+    # e.g. "cape_verde" → "Cape Verde"
+    key = name.replace("_", " ").title()
     try:
         country = pycountry.countries.lookup(key)
         code = country.alpha_2.lower()
     except LookupError:
-        code = override.get(name.lower())
+        code = override.get(name)
         if not code:
             print(f"⚠️ Could not find ISO code for “{name}” – skipping")
             continue

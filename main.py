@@ -75,7 +75,7 @@ def generate_json_files(name_list, json_template, fname_tpl, output_folder, ogg_
 if __name__ == "__main__":
     # Paths
     project_dir = os.path.dirname(os.path.abspath(__file__))
-    midi_dir = r"C:\Users\leona\PycharmProjects\MusicAdder\africa_anthems"
+    midi_dir = r"C:\Users\leona\PycharmProjects\MusicAdder\asia_anthems"
     ogg_folder = os.path.join(project_dir, 'output_oggs')
     output_folder = os.path.join(project_dir, 'generated_jsons')
 
