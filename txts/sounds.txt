@@ -1,418 +1,208 @@
 
-      "afghanistan": {
+      "american_samoa": {
         "sounds": [
           {
-            "name": "anthemdiscs:afghanistan",
+            "name": "anthemdiscs:american_samoa",
             "stream": true
           }
         ]
       },
 
 
-      "bahrain": {
+      "australia": {
         "sounds": [
           {
-            "name": "anthemdiscs:bahrain",
+            "name": "anthemdiscs:australia",
             "stream": true
           }
         ]
       },
 
 
-      "bangladesh": {
+      "cook_islands": {
         "sounds": [
           {
-            "name": "anthemdiscs:bangladesh",
+            "name": "anthemdiscs:cook_islands",
             "stream": true
           }
         ]
       },
 
 
-      "bhutan": {
+      "fiji": {
         "sounds": [
           {
-            "name": "anthemdiscs:bhutan",
+            "name": "anthemdiscs:fiji",
             "stream": true
           }
         ]
       },
 
 
-      "brunei": {
+      "guam": {
         "sounds": [
           {
-            "name": "anthemdiscs:brunei",
+            "name": "anthemdiscs:guam",
             "stream": true
           }
         ]
       },
 
 
-      "cambodia": {
+      "kiribati": {
         "sounds": [
           {
-            "name": "anthemdiscs:cambodia",
+            "name": "anthemdiscs:kiribati",
             "stream": true
           }
         ]
       },
 
 
-      "china": {
+      "marshall_islands": {
         "sounds": [
           {
-            "name": "anthemdiscs:china",
+            "name": "anthemdiscs:marshall_islands",
             "stream": true
           }
         ]
       },
 
 
-      "india": {
+      "micronesia": {
         "sounds": [
           {
-            "name": "anthemdiscs:india",
+            "name": "anthemdiscs:micronesia",
             "stream": true
           }
         ]
       },
 
 
-      "indonesia": {
+      "nauru": {
         "sounds": [
           {
-            "name": "anthemdiscs:indonesia",
+            "name": "anthemdiscs:nauru",
             "stream": true
           }
         ]
       },
 
 
-      "iran": {
+      "new_zealand": {
         "sounds": [
           {
-            "name": "anthemdiscs:iran",
+            "name": "anthemdiscs:new_zealand",
             "stream": true
           }
         ]
       },
 
 
-      "iraq": {
+      "niue": {
         "sounds": [
           {
-            "name": "anthemdiscs:iraq",
+            "name": "anthemdiscs:niue",
             "stream": true
           }
         ]
       },
 
 
-      "israel": {
+      "northern_marianas": {
         "sounds": [
           {
-            "name": "anthemdiscs:israel",
+            "name": "anthemdiscs:northern_marianas",
             "stream": true
           }
         ]
       },
 
 
-      "japan": {
+      "palau": {
         "sounds": [
           {
-            "name": "anthemdiscs:japan",
+            "name": "anthemdiscs:palau",
             "stream": true
           }
         ]
       },
 
 
-      "jordan": {
+      "papua_new_guinea": {
         "sounds": [
           {
-            "name": "anthemdiscs:jordan",
+            "name": "anthemdiscs:papua_new_guinea",
             "stream": true
           }
         ]
       },
 
 
-      "kazakhstan": {
+      "pitcairn": {
         "sounds": [
           {
-            "name": "anthemdiscs:kazakhstan",
+            "name": "anthemdiscs:pitcairn",
             "stream": true
           }
         ]
       },
 
 
-      "kuwait": {
+      "samoa": {
         "sounds": [
           {
-            "name": "anthemdiscs:kuwait",
+            "name": "anthemdiscs:samoa",
             "stream": true
           }
         ]
       },
 
 
-      "kyrgyzstan": {
+      "solomon_islands": {
         "sounds": [
           {
-            "name": "anthemdiscs:kyrgyzstan",
+            "name": "anthemdiscs:solomon_islands",
             "stream": true
           }
         ]
       },
 
 
-      "laos": {
+      "tokelau": {
         "sounds": [
           {
-            "name": "anthemdiscs:laos",
+            "name": "anthemdiscs:tokelau",
             "stream": true
           }
         ]
       },
 
 
-      "lebanon": {
+      "tonga": {
         "sounds": [
           {
-            "name": "anthemdiscs:lebanon",
+            "name": "anthemdiscs:tonga",
             "stream": true
           }
         ]
       },
 
 
-      "malaysia": {
+      "tuvalu": {
         "sounds": [
           {
-            "name": "anthemdiscs:malaysia",
+            "name": "anthemdiscs:tuvalu",
             "stream": true
           }
         ]
       },
 
 
-      "maldives": {
+      "vanuatu": {
         "sounds": [
           {
-            "name": "anthemdiscs:maldives",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "mongolia": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:mongolia",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "myanmar": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:myanmar",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "nepal": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:nepal",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "north_korea": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:north_korea",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "oman": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:oman",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "pakistan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:pakistan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "philippines": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:philippines",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "qatar": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:qatar",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "saudiarabia": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:saudiarabia",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "singapore": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:singapore",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "south_korea": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:south_korea",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "srilanka": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:srilanka",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "syria": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:syria",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "tajikistan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:tajikistan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "thailand": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:thailand",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "timorleste": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:timorleste",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "turkmenistan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:turkmenistan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "uae": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:uae",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "uzbekistan": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:uzbekistan",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "vietnam": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:vietnam",
-            "stream": true
-          }
-        ]
-      },
-
-
-      "yemen": {
-        "sounds": [
-          {
-            "name": "anthemdiscs:yemen",
+            "name": "anthemdiscs:vanuatu",
             "stream": true
           }
         ]

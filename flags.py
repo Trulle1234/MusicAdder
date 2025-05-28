@@ -3,34 +3,46 @@ import os
 import requests
 import pycountry
 
-# ◉ Base-names (from asia_anthems/*.mid, no “.png”)
+# ◉ Base-names (no “.png”)
 names = [
-    "afghanistan","bahrain","bangladesh","bhutan","brunei","cambodia","china",
-    "india","indonesia","iran","iraq","israel","japan","jordan","kazakhstan",
-    "kuwait","kyrgyzstan","laos","lebanon","malaysia","maldives","mongolia",
-    "myanmar","nepal","north_korea","oman","pakistan","philippines","qatar",
-    "saudiarabia","singapore","south_korea","sri_lanka","syria","tajikistan",
-    "thailand","timorleste","turkmenistan","uae","uzbekistan","vietnam","yemen"
+    "american_samoa","australia","cook_islands","fiji","guam","kiribati",
+    "marshall_islands","micronesia","nauru","new_zealand","niue",
+    "northern_marianas","palau","papua_new_guinea","pitcairn","samoa",
+    "solomon_islands","tokelau","tonga","tuvalu","vanuatu"
 ]
 
-# ◉ Fallbacks for lookups that don’t map cleanly
+# ◉ Fallbacks where lookup may fail or hyphens/spaces differ
 override = {
-    "north_korea":    "kp",
-    "south_korea":    "kr",
-    "saudiarabia":    "sa",
-    "timorleste":     "tl",  # East Timor
-    "uae":            "ae",
-     "brunei":         "bn",
-    #…add more if you see any “Could not find” warnings
+    "american_samoa":     "as",
+    "cook_islands":       "ck",
+    "marshall_islands":   "mh",
+    "micronesia":         "fm",
+    "new_zealand":        "nz",
+    "northern_marianas":  "mp",
+    "papua_new_guinea":   "pg",
+    "pitcairn":           "pn",
+    "solomon_islands":    "sb",
+    "tokelau":            "tk",
+    # most others map cleanly:
+    # "australia": "au"
+    # "fiji":       "fj"
+    # "guam":       "gu"
+    # "kiribati":   "ki"
+    # "nauru":      "nr"
+    # "niue":       "nu"
+    # "palau":      "pw"
+    # "samoa":      "ws"
+    # "tonga":      "to"
+    # "tuvalu":     "tv"
+    # "vanuatu":    "vu"
 }
 
-# ◉ Where to save
-output_dir = os.path.abspath("flags")
+output_dir = os.path.abspath("oceania_flags")
 os.makedirs(output_dir, exist_ok=True)
 print("Saving flags into:", output_dir)
 
 for name in names:
-    key = name.replace("_", " ").title()  # e.g. "north_korea"→"North Korea"
+    key = name.replace("_", " ").title()
     try:
         country = pycountry.countries.lookup(key)
         code = country.alpha_2.lower()
